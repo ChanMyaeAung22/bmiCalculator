@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="app_title">BMI Calculator</string>
+    <string name="app_subtitle">Calculate your Body Mass Index</string>
+
+    <string name="weight_label">Weight</string>
+    <string name="weight_hint">Enter weight</string>
+
+    <string name="height_label">Height</string>
+    <string name="height_hint">Enter height</string>
+
+    <string name="unit_kg">kg</string>
+    <string name="unit_lb">lb</string>
+
+    <string name="unit_cm">cm</string>
+    <string name="unit_in">in</string>
+
+    <string name="calculate_bmi">CALCULATE BMI</string>
+    <string name="bmi_result">BMI RESULT</string>
+
+    <string name="error_invalid_number">Please enter a valid number</string>
+
+    // error message for invalid weight
+    <string name="error_weight_kg">Weight must be between 20 and 300 kg</string>
+    <string name="error_weight_lb">Weight must be between 44 and 660 lb</string>
+
+    // error message for invalid height
+    <string name="error_height_cm">Height must be between 50 and 250 cm</string>
+    <string name="error_height_in">Height must be between 20 and 100 in</string>
+    
+    // categories
+    <string name="category_underweight">Underweight</string>
+    <string name="category_normalweight">Normal weight</string>
+    <string name="category_overwight">Overweight</string>
+    <string name="category_obese">Obese</string>
+
+</resources>
